@@ -4,6 +4,7 @@
         "packages/*"
     ],
     "scripts": {
-        "start:base": "yarn workspace react-base run start"
+        "start:base": "yarn workspace react-base run start",
+        "start:next": "yarn workspace react-base-next run dev"
     }
 }

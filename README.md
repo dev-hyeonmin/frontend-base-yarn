@@ -9,6 +9,7 @@ yarn create react-app react-base --template typescript
 4. root 의존성 추가: yarn add <PACKAGE_NAME> -W
 
 ## vscode extension
+참고: https://learn-dev.tistory.com/9
 1. Install ZipFs - a zip file system
 2. Select TypeScript: Select TypeScript Version...
 3. Select Use Workspace Version
