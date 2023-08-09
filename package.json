@@ -1,3 +1,9 @@
 {
-  "packageManager": "yarn@3.6.1"
+    "packageManager": "yarn@3.6.1",
+    "workspaces": [
+        "packages/*"
+    ],
+    "scripts": {
+        "start:base": "yarn workspace react-base run start"
+    }
 }
